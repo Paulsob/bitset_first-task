@@ -14,6 +14,7 @@ public class bitset{
 class Person{
 
     String name;    // имя
+    String surname;    // имя
     int age;        // возраст
     void displayInfo(){
         System.out.printf("Name: %s \tAge: %d\n", name, age);
